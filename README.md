@@ -38,8 +38,11 @@ Make your changes and commit them:
 
     git commit -m 'Add new feature'.
 
+
 Push to the branch: 
 
      git push origin feature/new-feature.
 
 Submit a pull request.
+
+*some files will be added soon :D
